@@ -6,7 +6,7 @@ import org.bukkit.World;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin implements Runnable {
-	public WeatherBooster() {
+	public Main() {
 		super();
 	}
 
